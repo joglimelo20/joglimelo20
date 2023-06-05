@@ -3,7 +3,7 @@
 
 🚀 About me
 
-Hi, my name Jogli Melo. I live in Brazil. I'm a javascript and python developer
+Hi, my name Jogli Melo, I'm 21 year old. I live in Brazil. I'm a javascript and python developer. Work in Ateky Internet the 4 years
 
 
 </br>
@@ -15,12 +15,6 @@ Hi, my name Jogli Melo. I live in Brazil. I'm a javascript and python developer
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jogli-melo-06258721b/)
 [![twitter](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](jogli.melo@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jogli.melo/)
-
-</br>
-
-👩‍💻 Work in Ateky Internet
-
-🧠 I am learning Tailwind CSS
 
 </br>
 
