@@ -1,7 +1,8 @@
 
 # Jogli Melo
 
-🚀 Sobre mim
+🚀 About me
+
 Hi, my name Jogli Melo. I live in Brazil. I'm a javascript and python developer
 
 
