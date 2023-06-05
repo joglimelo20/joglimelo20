@@ -21,3 +21,7 @@ Hello, my name is Jogli Melo, I'm 21 years old. I live in Brazil. I'm a javascri
 🛠 Skills
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,py,react,nextjs,nodejs,tailwind,mysql,postgres,docker,git,nodejs,figma&theme=dark)](https://skills.thijs.gg)
+
+
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
