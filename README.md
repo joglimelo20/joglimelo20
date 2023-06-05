@@ -12,16 +12,17 @@ Hi, my name Jogli Melo. I live in Brazil. I'm a javascript and python developer
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/jogli-melo-06258721b/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jogli-melo-06258721b/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JogliMelo20)
+[![twitter](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](jogli.melo@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jogli.melo/)
 
 </br>
 
-👩‍💻 Trabalho atualmente na Ateky Internet
+👩‍💻 Work in Ateky Internet
 
-🧠 Estou aprendendo Tailwind CSS
+🧠 I am learning Tailwind CSS
 
 </br>
 
-🛠 Habilidades
+🛠 Skills
 
-Javascript, HTML, CSS, Python, ReactJS, NextJs, Tailwind, MYSQL, Postgresql, Docker, Docker-Compose, Git, Github, Networks...
+[![My Skills](https://skills.thijs.gg/icons?i=js,py,react,nextjs,nodejs,tailwind,mysql,postgres,docker,git,nodejs,figma&theme=dark)](https://skills.thijs.gg)
